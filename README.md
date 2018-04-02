@@ -2,7 +2,8 @@
 Bio 373: Comp Bio - Intro to GitHub Assignment
 
 Objectives:
- 1. Learn the basics of GitHub
+ 1. Learn the basics of GitHub - repository, branch, edit, pull
+ 2. Contribute to our team SDM GitHub repository to facilitate collaboration on our class paper
 
 Instructions:
  1. Complete the steps outlined here: https://guides.github.com/activities/hello-world/
