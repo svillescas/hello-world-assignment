@@ -7,9 +7,18 @@ Objectives:
 
 Instructions:
  1. Complete the steps outlined here: https://guides.github.com/activities/hello-world/
- 2. Go to https://github.com/OxyCompBio/Comp-Bio-SDMs and upload your SDM data
+ 2. Add a new file to the hello-world-assignment-yourusername repository
  
-    a. Create a folder and README.md file for your species using the steps you learned in the Hello-World tutorial
+    a. Follow the steps you learned in the Hello-World tutorial to create a new file called Answers.md
+       - Create a branch to begin editing
+       - Click "Create new file" and type in Answers.md
+       - Answer the following Question: In what ways does GitHub help scientists follow the best practices for scientific computing?
+         (1 paragraph max)
+       - Create a pull request and merge
+       
+ 3. Go to https://github.com/OxyCompBio/Comp-Bio-SDMs and upload your SDM data
+ 
+    a. Create a folder and README.md file for your species using the steps you learned in the Hello-World tutorial:
    
     b. Create a branch to begin editing
     
