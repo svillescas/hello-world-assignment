@@ -21,6 +21,7 @@ Instructions:
        - Click "Create new file" and type in Answers.md
        - Answer the following Question: In what ways does GitHub help scientists follow the best practices for scientific computing?
          (1 paragraph max)
+            - Please make sure to write up a thorough and thoughtful response to this!
        - Create a pull request and merge
        
  3. Go to https://github.com/OxyCompBio/Comp-Bio-SDMs and upload your SDM data
