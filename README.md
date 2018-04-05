@@ -24,9 +24,12 @@ Instructions:
             - Please make sure to write up a thorough and thoughtful response to this!
        - Create a pull request and merge
        
- 3. Go to https://github.com/OxyCompBio/Comp-Bio-SDMs and upload your SDM data
+ 3. Now you are ready to contribute to our official repository for the class SDM project!
  
-    a. Create a folder and README.md file for your species using the steps you learned in the Hello-World tutorial by completing the following:
+    a. Go to https://github.com/OxyCompBio/Comp-Bio-SDMs
+       - Note that you will need to be added as a contributor to access this page as I have it set to private. If you cannot access this page, please email me your GitHub username and ask me to add you as a collaborator.
+ 
+    b. Create a folder and README.md file for your species using the steps you learned in the Hello-World tutorial by completing the following:
    
        - Create a branch to begin editing
     
@@ -45,3 +48,5 @@ Instructions:
     
        - Create a pull request
            - You do not need to confirm the merge. I will review and then confirm the pull request.
+
+  4. Congrats! You're done.
