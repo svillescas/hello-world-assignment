@@ -44,7 +44,7 @@ Instructions:
        - Upload the following files:
            - Original Arctos Observation files
            - Updated Species1_locs.csv Observation files
-           - Your R Markdown .rmd file
+           - Your R Markdown .rmd file (Lab 7, which should include all your work from both Lab 6 and Lab 7)
     
        - Create a pull request
            - You do not need to confirm the merge. I will review and then confirm the pull request.
