@@ -23,30 +23,6 @@ Instructions:
          (1 paragraph max)
             - Please make sure to write up a thorough and thoughtful response to this!
        - Create a pull request and merge
-       
- 3. Now you are ready to contribute to our official repository for the class SDM project!
- 
-    a. Go to https://github.com/OxyCompBio/Comp-Bio-SDMs
-       - Note that you will need to be added as a contributor to access this page as I have it set to private. If you cannot access this page, please email me your GitHub username and ask me to add you as a collaborator.
- 
-    b. Create a folder and README.md file for your species using the steps you learned in the Hello-World tutorial by completing the following:
-   
-       - Create a branch to begin editing
     
-       - Click "Create new file" and type in the name of your species followed by /README.md
-           - Type in: Example_species/README.md
-    
-       - Edit the README.md file to include:
-           - The name of your species
-           - Your name
-           - The bioclim layers that you used after removing correlated variables
-    
-       - Upload the following files:
-           - Original Arctos Observation files
-           - Updated Species1_locs.csv Observation files
-           - Your R Markdown .rmd file (Lab 7, which should include all your work from both Lab 6 and Lab 7)
-    
-       - Create a pull request
-           - You do not need to confirm the merge. I will review and then confirm the pull request.
 
-  4. Congrats! You're done.
+  3. Congrats! You're done.
